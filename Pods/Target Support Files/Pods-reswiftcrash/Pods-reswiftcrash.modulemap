@@ -1,0 +1,6 @@
+framework module Pods_reswiftcrash {
+  umbrella header "Pods-reswiftcrash-umbrella.h"
+
+  export *
+  module * { export * }
+}
